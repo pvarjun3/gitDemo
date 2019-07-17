@@ -4,8 +4,4 @@ sdfjkjds
 shdjs
 mallikarjuna
 devops open sttat
-<<<<<<< HEAD
-mallikarjuna
-navya
-=======
->>>>>>> parent of 63420f1... added mallikarjuna
+
